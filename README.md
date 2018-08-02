@@ -1,4 +1,4 @@
-# Spatial-Correlation-of-Gene-Expression
+# Spatial Correlation of Gene Expressions
 
 
 ## Process and Analyze Data
