@@ -1,5 +1,6 @@
 # Spatial Correlation of Gene Expressions
 
+Codes for paper [Modeling Spatial Correlation of Transcripts With Application to Developing Pancreas](https://www.biorxiv.org/content/biorxiv/early/2018/08/14/391433.full.pdf).
 
 ## Process and Analyze Data
 
